@@ -1,1 +1,1 @@
-My description for this project
+Variables and Expansions project

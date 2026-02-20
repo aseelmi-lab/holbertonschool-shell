@@ -8,3 +8,4 @@ Project: Shell, I/O Redirection and filters
 5-firstlines: Displays first 10 lines of /etc/passwd
 6-third_line: Displays the third line of the file iacta
 7-file: Creates a file with a complex name
+7-file: A shell script that creates a file with a complex name containing special characters
